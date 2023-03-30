@@ -1,0 +1,11 @@
+{
+  "name": "coding_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node tabassociatif.js"   
+  },
+  "author": "",
+  "license": "ISC"
+}
